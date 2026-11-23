@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ragi-idli-premix",
+    "name": "Ragi Idli Premix",
+    "weight": "500 g",
+    "category": "Premixes",
+    "description": "A wholesome, easy-to-make breakfast premix crafted with the goodness of ragi.",
+    "price": 175,
+    "image": "/assets/products/ragi-idli.svg",
+    "badge": "Everyday favourite",
+    "ingredients": ["Ragi", "Traditional ingredients"],
+    "sortOrder": 1,
+    "active": true
+  },
+  {
+    "id": "moongdal-dosa-mix",
+    "name": "Moong Dal Dosa Mix",
+    "weight": "500 g",
+    "category": "Premixes",
+    "description": "A satisfying dosa mix made for delicious mornings and fuss-free meals.",
+    "price": 225,
+    "image": "/assets/products/moongdal-dosa.svg",
+    "badge": "Protein-rich pulse",
+    "ingredients": ["Moong dal", "Traditional ingredients"],
+    "sortOrder": 2,
+    "active": true
+  },
+  {
+    "id": "foxtail-millet-khichdi",
+    "name": "Foxtail Millet Khichdi Premix",
+    "weight": "500 g",
+    "category": "Premixes",
+    "description": "Comforting millet goodness, thoughtfully prepared for a quick, nourishing meal.",
+    "price": 399,
+    "image": "/assets/products/foxtail-khichdi.svg",
+    "badge": "Comfort in a bowl",
+    "ingredients": ["Foxtail millet", "Moong dal"],
+    "sortOrder": 3,
+    "active": true
+  },
+  {
+    "id": "flaxseed-mukhwas",
+    "name": "Flaxseed Mukhwas",
+    "weight": "100 g",
+    "category": "Everyday bites",
+    "description": "A crunchy, flavourful after-meal nibble with the goodness of flaxseeds.",
+    "price": 149,
+    "image": "/assets/products/flaxseed-mukhwas.svg",
+    "badge": "Little daily goodness",
+    "ingredients": ["Flaxseeds", "Selected spices"],
+    "sortOrder": 4,
+    "active": true
+  }
+]
